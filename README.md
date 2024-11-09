@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Gabriel, I'm a 27 years old software engineer student from Brazil and I'm currently living and studying in France. 
+
 <!--
 **gabriel-guerra/gabriel-guerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
